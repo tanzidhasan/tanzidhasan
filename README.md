@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **react, node and oracle**
 
-- 📫 How to reach me **md.tanzidhasan@gmail.com**(Personal), **tanzid@flowgenx.ai**(Official)
+- 📫 How to reach me **md.tanzidhasan@gmail.com** (Personal), **tanzid@flowgenx.ai** (Official)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ofs8ytYKgsVKTfYz7yjPn2zRE_fj_IRB/view?usp=sharing)
+- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1ofs8ytYKgsVKTfYz7yjPn2zRE_fj_IRB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
