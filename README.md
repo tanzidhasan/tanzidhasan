@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Md. Tanzid Hasan</h1>
-<h3 align="center">Software Engineer - Gen AI @ FlowGenX AI from Bangladesh</h3>
+<h3 align="center">AI Engineer @ FlowGenX AI from Bangladesh</h3>
 
 - 🔭 I’m currently working on [garage_management](https://github.com/tanzidhasan/garage_management)
 
-- 🌱 I’m currently learning **React js, Node js, Oracle DBMS**
+- 🌱 I’m currently learning **Apache Airflow, Google Cloud Storage, Big Query**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/tanzidhasan)
 
-- 💬 Ask me about **react, node and oracle**
-
 - 📫 How to reach me **md.tanzidhasan@gmail.com** (Personal), **tanzid@flowgenx.ai** (Official)
 
-- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1ofs8ytYKgsVKTfYz7yjPn2zRE_fj_IRB/view?usp=sharing)
+- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1B8LD6x6A1OchOVlHTj8L6iABWXseLNKN/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanzid-hasan-198215247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzid-hasan-198215247" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanzidhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzidhasan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/tanzid_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tanzid_hasan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/tanzid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tanzid/" height="30" width="40" /></a>
 </p>
